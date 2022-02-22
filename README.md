@@ -1,7 +1,7 @@
-# Construindo o seu primeiro jogo de naves
+# Building your first spaceship game
 
-Projeto desenvolvido no Bootcamp Take Blip Web Developer da Digital Innovation One com a instrução do especilista Denilson Bonatti. Aprendendo a utilizar HTML5, CSS3, JavaScript e JQuery.
+Project developed at Digital Innovation One's Take Blip Web Developer Bootcamp with the instruction of specialist Denilson Bonatti. Learning to use HTML5, CSS3, JavaScript and JQuery.
 
-Este projeto está sob a licença [MIT](./LICENSE).
+This project is under the MIT license.
 
 Made with by Nivaldo Beirão
