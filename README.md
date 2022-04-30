@@ -2,7 +2,8 @@ Daily Learning
 
 # Building your first spaceship game #
 
-Project developed at Digital Innovation One's Take Blip Web Developer Bootcamp with the instruction of specialist Denilson Bonatti. Learning to use HTML5, CSS3, JavaScript and JQuery.
+Projeto desenvolvido no Bootcamp Take Blip Web Developer da Digital Innovation One com a instrução do especialista [Denilson Bonatti](https://github.com/denilsonbonatti "Denilson Bonatti").
+Aprendendo a utilizar o HTML5 juntamente com as folhas de estilo CSS3, JavaScript e JQuery, desenvolver jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis.
 
 This project is under the MIT [LICENSE](./LICENSE).
 
